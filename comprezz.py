@@ -1,3 +1,4 @@
+# https://chatgpt.com/share/e/6793bd7d-4114-800a-9132-23ce50d9ed0f
 def compress_lz77(data: str):
     """
     Compress a string using a naive LZ77-like approach.
